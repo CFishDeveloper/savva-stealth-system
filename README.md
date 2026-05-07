@@ -56,7 +56,7 @@ sudo python main.py --dry-run
 
 # Выполнение изменений:
 sudo python main.py --confirm
-
+```
 Рекомендации по бэкапам (сохранять до запуска)
 
     Сделайте резервные копии ключевых конфигураций: sudo cp /etc/resolv.conf /etc/resolv.conf.bak
